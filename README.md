@@ -1,4 +1,4 @@
-# Create React Spectacle Boilerplate
+# My Catering
 
 ## Usage
 
